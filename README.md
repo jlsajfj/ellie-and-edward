@@ -1,3 +1,5 @@
 # Ellie and Edward
 
-Just a site for fun :)
+A web app that allows music customization using the Spotify API. 
+
+Made with love <3
